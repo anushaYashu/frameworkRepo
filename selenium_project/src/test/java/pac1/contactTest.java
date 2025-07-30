@@ -22,4 +22,10 @@ public void modifyContact()
 	System.out.println("modifyContact");
 	System.out.println("modifyContact1");
 }
+@Test
+public void deleteContact()
+{
+	System.out.println("deleteContact");
+	System.out.println("deleteContact");
+}
 }
